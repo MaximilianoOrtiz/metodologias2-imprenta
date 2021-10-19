@@ -1,0 +1,1464 @@
+2:34:06 p. m., lunes, 5 de julio de 2021: Unhandled exception - an Error('Must be boolean')
+
+Object>>error:
+Object>>mustBeBoolean
+True(Boolean)>>&
+[] in Libreria>>listarImpresionesPendientesDeEntrega
+[] in OrderedCollection>>select:
+OrderedCollection>>do:
+OrderedCollection>>select:
+Libreria>>listarImpresionesPendientesDeEntrega
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+----------------------------------------------------------------------------------------------------
+
+2:35:40 p. m., lunes, 5 de julio de 2021: Unhandled exception - an Error('Must be boolean')
+
+Object>>error:
+Object>>mustBeBoolean
+True(Boolean)>>&
+[] in Libreria>>listarImpresionesPendientesDeEntrega
+[] in OrderedCollection>>select:
+OrderedCollection>>do:
+OrderedCollection>>select:
+Libreria>>listarImpresionesPendientesDeEntrega
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+----------------------------------------------------------------------------------------------------
+
+21:28:40, lunes, 05 de julio de 2021: Unhandled exception - a MessageNotUnderstood('TipoDeImpresion does not understand #iniAcolor')
+
+TipoDeImpresion(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+22:08:24, lunes, 05 de julio de 2021: Unhandled exception - a MessageNotUnderstood('TipoDeImpresion does not understand #iniAcolor')
+
+TipoDeImpresion(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+22:08:25, lunes, 05 de julio de 2021: Unhandled exception - a MessageNotUnderstood('DevelopmentSessionManager does not understand #new')
+
+DevelopmentSessionManager(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+22:28:21, lunes, 05 de julio de 2021: Unhandled exception - a MessageNotUnderstood('AColor does not understand #iniBlancoYNegro')
+
+AColor(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+22:28:50, lunes, 05 de julio de 2021: Unhandled exception - a MessageNotUnderstood('TipoDeImpresion does not understand #iniBlancoYNegro')
+
+TipoDeImpresion(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+22:44:33, lunes, 05 de julio de 2021: Unhandled exception - a MessageNotUnderstood('TipoDeImpresion does not understand #iniBlancoYNegro')
+
+TipoDeImpresion(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+23:03:29, lunes, 05 de julio de 2021: Unhandled exception - a MessageNotUnderstood('TipoDeImpresion does not understand #implemented')
+
+TipoDeImpresion(Object)>>doesNotUnderstand:
+TipoDeImpresion>>iniTipoDeImpresion
+TipoDeImpresion class>>crearTipoDeImpresion
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+----------------------------------------------------------------------------------------------------
+
+23:03:34, lunes, 05 de julio de 2021: Unhandled exception - a MessageNotUnderstood('DevelopmentSessionManager does not understand #by')
+
+DevelopmentSessionManager(Object)>>doesNotUnderstand:
+TipoDeImpresion>>iniTipoDeImpresion
+TipoDeImpresion class>>crearTipoDeImpresion
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+----------------------------------------------------------------------------------------------------
+
+23:04:44, lunes, 05 de julio de 2021: Unhandled exception - a MessageNotUnderstood('AColor class does not understand #crearTipoDeImpresio')
+
+AColor class(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+0:14:18, martes, 06 de julio de 2021: Unhandled exception - a MessageNotUnderstood('AColor does not understand #impresiones')
+
+AColor(Object)>>doesNotUnderstand:
+Libreria>>cargarImpresion:doc:cantPag:tipoDeImpresion:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+0:14:25, martes, 06 de julio de 2021: Unhandled exception - a MessageNotUnderstood('AColor does not understand #impresiones')
+
+AColor(Object)>>doesNotUnderstand:
+Libreria>>cargarImpresion:doc:cantPag:tipoDeImpresion:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+0:14:29, martes, 06 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Impresion class does not understand #crearImpresion:doc:cantPag:tipoDeImpresion:add:')
+
+Impresion class(Object)>>doesNotUnderstand:
+Libreria>>cargarImpresion:doc:cantPag:tipoDeImpresion:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+0:14:30, martes, 06 de julio de 2021: Unhandled exception - a MessageNotUnderstood('BlancoYNegro does not understand #impresiones')
+
+BlancoYNegro(Object)>>doesNotUnderstand:
+Libreria>>cargarImpresion:doc:cantPag:tipoDeImpresion:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+0:15:10, martes, 06 de julio de 2021: Unhandled exception - an Error('Must be boolean')
+
+Object>>error:
+Object>>mustBeBoolean
+False(Boolean)>>&
+[] in Libreria>>buscarImpresionesPendientesPorCliente:
+[] in OrderedCollection>>select:
+OrderedCollection>>do:
+OrderedCollection>>select:
+Libreria>>buscarImpresionesPendientesPorCliente:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+----------------------------------------------------------------------------------------------------
+
+0:15:18, martes, 06 de julio de 2021: Unhandled exception - an Error('Must be boolean')
+
+Object>>error:
+Object>>mustBeBoolean
+False(Boolean)>>&
+[] in Libreria>>buscarImpresionesPendientesPorCliente:
+[] in OrderedCollection>>select:
+OrderedCollection>>do:
+OrderedCollection>>select:
+Libreria>>buscarImpresionesPendientesPorCliente:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+----------------------------------------------------------------------------------------------------
+
+0:28:03, martes, 06 de julio de 2021: Unhandled exception - a MessageNotUnderstood('BlancoYNegro does not understand #libreria')
+
+BlancoYNegro(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+0:28:38, martes, 06 de julio de 2021: Unhandled exception - a MessageNotUnderstood('BlancoYNegro does not understand #ibreria')
+
+BlancoYNegro(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+0:29:01, martes, 06 de julio de 2021: Unhandled exception - a MessageNotUnderstood('BlancoYNegro does not understand #ibreria')
+
+BlancoYNegro(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+0:33:47, martes, 06 de julio de 2021: Unhandled exception - an Error('Must be boolean')
+
+Object>>error:
+Object>>mustBeBoolean
+True(Boolean)>>&
+[] in Libreria>>listarImpresionesPendientesDeEntrega
+[] in OrderedCollection>>select:
+OrderedCollection>>do:
+OrderedCollection>>select:
+Libreria>>listarImpresionesPendientesDeEntrega
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+----------------------------------------------------------------------------------------------------
+
+0:45:42, martes, 06 de julio de 2021: Unhandled exception - an Error('Must be boolean')
+
+Object>>error:
+Object>>mustBeBoolean
+False(Boolean)>>&
+[] in Libreria>>buscarImpresionesPendientesPorCliente:
+[] in OrderedCollection>>select:
+OrderedCollection>>do:
+OrderedCollection>>select:
+Libreria>>buscarImpresionesPendientesPorCliente:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+----------------------------------------------------------------------------------------------------
+
+0:45:56, martes, 06 de julio de 2021: Unhandled exception - an Error('Must be boolean')
+
+Object>>error:
+Object>>mustBeBoolean
+False(Boolean)>>&
+[] in Libreria>>buscarImpresionesPendientesPorCliente:
+[] in OrderedCollection>>select:
+OrderedCollection>>do:
+OrderedCollection>>select:
+Libreria>>buscarImpresionesPendientesPorCliente:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+----------------------------------------------------------------------------------------------------
+
+0:46:00, martes, 06 de julio de 2021: Unhandled exception - an Error('Must be boolean')
+
+Object>>error:
+Object>>mustBeBoolean
+True(Boolean)>>&
+[] in Libreria>>buscarImpresionesPendientesPorCliente:
+[] in OrderedCollection>>select:
+OrderedCollection>>do:
+OrderedCollection>>select:
+Libreria>>buscarImpresionesPendientesPorCliente:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+----------------------------------------------------------------------------------------------------
+
+0:46:41, martes, 06 de julio de 2021: Unhandled exception - an Error('Must be boolean')
+
+Object>>error:
+Object>>mustBeBoolean
+False(Boolean)>>&
+[] in Libreria>>buscarImpresionesPendientesPorCliente:
+[] in OrderedCollection>>select:
+OrderedCollection>>do:
+OrderedCollection>>select:
+Libreria>>buscarImpresionesPendientesPorCliente:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+----------------------------------------------------------------------------------------------------
+
+0:47:29, martes, 06 de julio de 2021: Unhandled exception - an Error('Must be boolean')
+
+Object>>error:
+Object>>mustBeBoolean
+False(Boolean)>>&
+[] in Libreria>>buscarImpresionesPendientesPorCliente:
+[] in OrderedCollection>>select:
+OrderedCollection>>do:
+OrderedCollection>>select:
+Libreria>>buscarImpresionesPendientesPorCliente:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+----------------------------------------------------------------------------------------------------
+
+0:47:56, martes, 06 de julio de 2021: Unhandled exception - an Error('Must be boolean')
+
+Object>>error:
+Object>>mustBeBoolean
+False(Boolean)>>&
+[] in Libreria>>buscarImpresionesPendientesPorCliente:
+[] in OrderedCollection>>select:
+OrderedCollection>>do:
+OrderedCollection>>select:
+Libreria>>buscarImpresionesPendientesPorCliente:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+----------------------------------------------------------------------------------------------------
+
+1:03:42, martes, 06 de julio de 2021: Unhandled exception - a MessageNotUnderstood('OrderedCollection does not understand #libreria')
+
+OrderedCollection(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+1:04:13, martes, 06 de julio de 2021: Unhandled exception - a MessageNotUnderstood('OrderedCollection does not understand #libreria')
+
+OrderedCollection(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+1:04:30, martes, 06 de julio de 2021: Unhandled exception - a MessageNotUnderstood('OrderedCollection does not understand #libreria')
+
+OrderedCollection(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+4:11:38, lunes, 12 de julio de 2021: Unhandled exception - a NotFoundError('Not found: 2')
+
+Dictionary(Object)>>errorNotFound:
+Dictionary>>errorKeyNotFound:
+Dictionary>>at:
+Libreria>>actualizarImprecionesPorCliente:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+----------------------------------------------------------------------------------------------------
+
+4:30:30, lunes, 12 de julio de 2021: Unhandled exception - a NotFoundError('Not found: true')
+
+Dictionary(Object)>>errorNotFound:
+Dictionary>>errorKeyNotFound:
+Dictionary>>at:
+[] in Libreria>>cargarImprecionesPorCliente
+OrderedCollection>>do:
+Libreria>>cargarImprecionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+----------------------------------------------------------------------------------------------------
+
+4:30:46, lunes, 12 de julio de 2021: Unhandled exception - a NotFoundError('Not found: true')
+
+Dictionary(Object)>>errorNotFound:
+Dictionary>>errorKeyNotFound:
+Dictionary>>at:
+[] in Libreria>>cargarImprecionesPorCliente
+OrderedCollection>>do:
+Libreria>>cargarImprecionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+----------------------------------------------------------------------------------------------------
+
+4:34:29, lunes, 12 de julio de 2021: Unhandled exception - a NotFoundError('Not found: false')
+
+Dictionary(Object)>>errorNotFound:
+Dictionary>>errorKeyNotFound:
+Dictionary>>at:
+[] in Libreria>>cargarImprecionesPorCliente
+OrderedCollection>>do:
+Libreria>>cargarImprecionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+----------------------------------------------------------------------------------------------------
+
+4:49:21, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Dictionary does not understand #dic')
+
+Dictionary(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+4:49:28, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Dictionary does not understand #dic')
+
+Dictionary(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+4:50:37, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Dictionary does not understand #put:')
+
+Dictionary(Object)>>doesNotUnderstand:
+[] in UndefinedObject>>{unbound}doIt
+Dictionary>>at:ifAbsent:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+----------------------------------------------------------------------------------------------------
+
+4:51:40, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Dictionary does not understand #put:')
+
+Dictionary(Object)>>doesNotUnderstand:
+[] in UndefinedObject>>{unbound}doIt
+Dictionary>>at:ifAbsent:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+----------------------------------------------------------------------------------------------------
+
+4:52:27, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('BlockClosure does not understand #dic')
+
+BlockClosure(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+4:52:33, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('BlockClosure does not understand #dic')
+
+BlockClosure(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+4:53:26, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('BlockClosure does not understand #dic')
+
+BlockClosure(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+5:06:08, lunes, 12 de julio de 2021: Unhandled exception - a NotFoundError('Not found: false')
+
+Dictionary(Object)>>errorNotFound:
+Dictionary>>errorKeyNotFound:
+Dictionary>>at:
+[] in Libreria>>cargarImprecionesPorCliente
+OrderedCollection>>do:
+Libreria>>cargarImprecionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+----------------------------------------------------------------------------------------------------
+
+5:10:07, lunes, 12 de julio de 2021: Unhandled exception - a NotFoundError('Not found: 1')
+
+Dictionary(Object)>>errorNotFound:
+Dictionary>>errorKeyNotFound:
+Dictionary>>at:
+[] in Libreria>>cargarImprecionesPorCliente
+Dictionary>>at:ifAbsent:
+[] in Libreria>>cargarImprecionesPorCliente
+OrderedCollection>>do:
+Libreria>>cargarImprecionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+----------------------------------------------------------------------------------------------------
+
+5:27:44, lunes, 12 de julio de 2021: Unhandled exception - a BoundsError('Index 347 is out of bounds')
+
+Process(Object)>>errorSubscriptBounds:
+Process(Object)>>errorAt:
+Process>>at:
+StackFrame>>method
+Debugger>>selectedMethod
+MethodRefactoringTool>>queryCommand:command:
+MethodRefactoringTool(RefactoringTool)>>queryCommand:
+DelegatingCommandPolicy(CommandPolicy)>>queryCommand:ofTarget:
+[] in DelegatingCommandPolicy(CommandPolicy)>>queryCommand:
+OrderedCollection>>do:
+DelegatingCommandPolicy(CommandPolicy)>>queryCommand:
+DelegatingCommandPolicy(CommandPolicy)>>query:
+ToolbarIconButton(ToolbarButton)>>validateUserInterface:
+[] in Toolbar>>validateUserInterface
+Array(ArrayedCollection)>>do:
+Toolbar>>validateUserInterface
+ReferenceView>>validateUserInterface
+[] in ControlBarAbstract>>validateUserInterface
+Toolbar(View)>>subViewsDo:
+Toolbar(ControlBarAbstract)>>validateUserInterface
+----------------------------------------------------------------------------------------------------
+
+5:28:08, lunes, 12 de julio de 2021: Unhandled exception - a BoundsError('Index 347 is out of bounds')
+
+Process(Object)>>errorSubscriptBounds:
+Process(Object)>>errorAt:
+Process>>at:
+StackFrame>>method
+Debugger>>selectedMethod
+MethodRefactoringTool>>queryCommand:command:
+MethodRefactoringTool(RefactoringTool)>>queryCommand:
+DelegatingCommandPolicy(CommandPolicy)>>queryCommand:ofTarget:
+[] in DelegatingCommandPolicy(CommandPolicy)>>queryCommand:
+OrderedCollection>>do:
+DelegatingCommandPolicy(CommandPolicy)>>queryCommand:
+DelegatingCommandPolicy(CommandPolicy)>>query:
+ToolbarIconButton(ToolbarButton)>>validateUserInterface:
+[] in Toolbar>>validateUserInterface
+Array(ArrayedCollection)>>do:
+Toolbar>>validateUserInterface
+ReferenceView>>validateUserInterface
+[] in ControlBarAbstract>>validateUserInterface
+Toolbar(View)>>subViewsDo:
+Toolbar(ControlBarAbstract)>>validateUserInterface
+----------------------------------------------------------------------------------------------------
+
+19:15:51, lunes, 12 de julio de 2021: Unhandled exception - a NotFoundError('Not found: 2')
+
+Dictionary(Object)>>errorNotFound:
+Dictionary>>errorKeyNotFound:
+Dictionary>>at:
+[] in Libreria>>cargarImprecionesPorCliente
+OrderedCollection>>do:
+Libreria>>cargarImprecionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+----------------------------------------------------------------------------------------------------
+
+19:16:35, lunes, 12 de julio de 2021: Unhandled exception - a NotFoundError('Not found: 2')
+
+Dictionary(Object)>>errorNotFound:
+Dictionary>>errorKeyNotFound:
+Dictionary>>at:
+[] in Libreria>>cargarImprecionesPorCliente
+OrderedCollection>>do:
+Libreria>>cargarImprecionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+----------------------------------------------------------------------------------------------------
+
+19:16:42, lunes, 12 de julio de 2021: Unhandled exception - a NotFoundError('Not found: 2')
+
+Dictionary(Object)>>errorNotFound:
+Dictionary>>errorKeyNotFound:
+Dictionary>>at:
+[] in Libreria>>cargarImprecionesPorCliente
+OrderedCollection>>do:
+Libreria>>cargarImprecionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+----------------------------------------------------------------------------------------------------
+
+19:17:00, lunes, 12 de julio de 2021: Unhandled exception - a NotFoundError('Not found: 2')
+
+Dictionary(Object)>>errorNotFound:
+Dictionary>>errorKeyNotFound:
+Dictionary>>at:
+[] in Libreria>>cargarImprecionesPorCliente
+OrderedCollection>>do:
+Libreria>>cargarImprecionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+----------------------------------------------------------------------------------------------------
+
+19:17:38, lunes, 12 de julio de 2021: Unhandled exception - a NotFoundError('Not found: 2')
+
+Dictionary(Object)>>errorNotFound:
+Dictionary>>errorKeyNotFound:
+Dictionary>>at:
+[] in Libreria>>cargarImprecionesPorCliente
+OrderedCollection>>do:
+Libreria>>cargarImprecionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+----------------------------------------------------------------------------------------------------
+
+19:32:45, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Dictionary does not understand #attribute:value:')
+
+Dictionary(Object)>>doesNotUnderstand:
+Libreria>>iniLibreria
+Libreria class>>crearLibreria
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+----------------------------------------------------------------------------------------------------
+
+20:06:07, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Dictionary does not understand #clearAll')
+
+Dictionary(Object)>>doesNotUnderstand:
+Libreria>>cargarImpresionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+20:06:16, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Dictionary does not understand #clearAll')
+
+Dictionary(Object)>>doesNotUnderstand:
+Libreria>>cargarImpresionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+20:06:33, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Dictionary does not understand #clear')
+
+Dictionary(Object)>>doesNotUnderstand:
+Libreria>>cargarImpresionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+20:07:11, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Dictionary does not understand #clear')
+
+Dictionary(Object)>>doesNotUnderstand:
+Libreria>>cargarImpresionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+20:08:43, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Dictionary does not understand #clearAll')
+
+Dictionary(Object)>>doesNotUnderstand:
+Libreria>>cargarImpresionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+20:09:05, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Dictionary does not understand #clearAll')
+
+Dictionary(Object)>>doesNotUnderstand:
+Libreria>>cargarImpresionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+20:09:21, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Dictionary does not understand #clearAll')
+
+Dictionary(Object)>>doesNotUnderstand:
+Libreria>>cargarImpresionesPorCliente
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+----------------------------------------------------------------------------------------------------
+
+20:16:13, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Libreria does not understand #cargarImprecionesPorCliente')
+
+Libreria(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+20:16:21, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Libreria does not understand #cargarImprecionesPorCliente')
+
+Libreria(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
+20:16:49, lunes, 12 de julio de 2021: Unhandled exception - a MessageNotUnderstood('Libreria does not understand #cargarImprecionesPorCliente')
+
+Libreria(Object)>>doesNotUnderstand:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:debug:
+SmalltalkWorkspace>>evaluateItIfFail:
+SmalltalkWorkspace>>inspectIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+CommandQuery>>perform
+DelegatingCommandPolicy(CommandPolicy)>>route:
+[] in ScintillaView(View)>>onCommand:
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+----------------------------------------------------------------------------------------------------
+
