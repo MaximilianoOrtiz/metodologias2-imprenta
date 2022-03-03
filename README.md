@@ -1,4 +1,4 @@
-# Sistema para libreria e impresion
+# Sistema para libreria e imprenta
 
 ## Descripción
 
