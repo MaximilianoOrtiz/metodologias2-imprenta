@@ -18,5 +18,4 @@ You must have installed .
 
 Then, inside the repository you will find a file called DPRO of type Dolphin Smalltalk Image. Run it and access the Class Browser if you want to browse the classes.
 If you want to run the program, you must open the workspace demo.st located in the repository.
-
-Go!
+ 
