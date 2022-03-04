@@ -1,22 +1,22 @@
-# Sistema para libreria e imprenta
+# System for bookstore and printing
 
-## Descripción
+## Description
 
-Este proyecto trata de integrar contenidos vistos dentro de la materia metodologías de programación 2 de la carrera, resolviendo una problemática ficticia de un negocio, creando solución mediante la programación orientada a objetos utilizando Smalltak y metodologías agiles, UML y diagrama de secuencia.
-Dentro del repositorio se encuentra una carpeta llamada  " Consigna e informe" donde se detalla a profundidad el proyecto.
+This project tries to integrate contents seen within the subject programming methodologies 2 of the career, solving a fictitious problem of a business, creating a solution through object-oriented programming using Smalltak and agile methodologies, UML and sequence diagram.
+Within the repository there is a folder called "Consignment and report" where the project is detailed in depth.
 
-## Instalación 
+## Installation
 
-Este proyecto está pensado para ejecutarse localmente. 
+This project is intended to be run locally.
 
-Asegúrese de tener instalado git y  clone el repositorio.
+Make sure you have git installed and clone the repository.
 ```bash
 git clone https://github.com/MaximilianoOrtiz/metodologias2-imprenta
 ```
-Debe tener instalado .
-* Dolphin Smalltalk Professional -v7.0.5
+You must have installed .
+* Dolphin Smalltalk Professional-v7.0.5
 
-Luego, dentro del repositorio encontrara un archivo llamado DPRO de tipo Dolphin Smalltalk Image. Ejecútelo y acceda al Class Browser si desea navegar por las clases. 
-Si desea ejecutar el programa deberá abrir el workspace demo.st ubicado en el repositorio.
+Then, inside the repository you will find a file called DPRO of type Dolphin Smalltalk Image. Run it and access the Class Browser if you want to browse the classes.
+If you want to run the program, you must open the workspace demo.st located in the repository.
 
-Vamos!
+Go!
